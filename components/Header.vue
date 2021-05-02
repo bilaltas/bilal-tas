@@ -2,10 +2,10 @@
 	<header class="bg-white relative z-40 w-full h-24 px-12 flex justify-between items-center">
 		<div class="w-full lg:w-auto">
 			<NuxtLink to="/" class="font-serif block text-black no-underline hover:text-gray-600">
-				<span class="text-2xl" v-if="$nuxt.$route.name == 'tr'">Bilal TAŞ</span>
-				<span class="text-2xl" v-else>Bilal TAS</span> <br />
-				<small class="relative -top-1 text-gray-500" v-if="$nuxt.$route.name == 'tr'">Wordpress Geliştiricisi, Vue Sever, Takım Lideri</small>
-				<small class="relative -top-1 text-gray-500" v-else>Wordpress Developer, Vue Lover, Team Leader</small>
+				<span v-if="$nuxt.$route.name == 'tr'" class="text-2xl">Bilal TAŞ</span>
+				<span v-else class="text-2xl">Bilal TAS</span> <br />
+				<small v-if="$nuxt.$route.name == 'tr'" class="relative -top-1 text-gray-500">Wordpress Geliştiricisi, Vue Sever, Takım Lideri</small>
+				<small v-else class="relative -top-1 text-gray-500">Wordpress Developer, Vue Lover, Team Leader</small>
 			</NuxtLink>
 		</div>
 
