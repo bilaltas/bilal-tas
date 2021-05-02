@@ -1,3 +1,3 @@
 <template>
-	<footer class="lg:fixed pin-b pin-l text-gray-600 font-serif p-12 text-xs text-center lg:text-left">Copyright &copy; 2021 Bilal TAŞ</footer>
+	<footer class="sm:hidden text-gray-600 font-serif px-6 pb-6 text-xs text-center">Copyright &copy; 2021 Bilal TAŞ</footer>
 </template>

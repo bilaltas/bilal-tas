@@ -1,5 +1,5 @@
 <template>
-	<div>
+	<div class="pb-6">
 		<a href="https://www.linkedin.com/in/bilalltas/" target="_blank" class="text-xs text-black block mb-2 hover:text-gray-600">
 			LinkedIn
 			<span class="inline-block h-1 w-24 ml-4 border-t border-gray-light"></span>
