@@ -1,4 +1,4 @@
-# bilal-tas
+# My Personal Website with NuxtJS
 
 ## Build Setup
 
