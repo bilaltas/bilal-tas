@@ -41,5 +41,10 @@ export default {
 				options.loose = true
 			},
 		},
+		postcss: {
+			plugins: {
+				'postcss-nested': {},
+			},
+		},
 	},
 }
