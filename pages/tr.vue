@@ -4,7 +4,7 @@
 		<h1 class="text-2xl md:text-4xl leading-tight lg:leading-normal mb-5 sm:mb-8 font-serif"><span class="inline-block" style="color: #6ce1ae">Invicti Security</span>'de Websites Ekibi Teknik Yöneticisi</h1>
 
 		<div class="mx-0 sm:ml-12 sm:-mr-12">
-			<p class="pr-6 md:pr-0 text-xs leading-normal text-gray-900 mb-8">Merhabalar ben Bilâl, uzman full-stack web geliştiricisiyim. Son derece şık ve kullanışlı web siteleri/uygulamaları geliştiriyorum. Programlamaya 2006'da başladım ve 12 yıldır web geliştirme alanıyla ilgileniyorum. Bunun 3 yılı yurtdışında olmak üzere yaklaşık son 10 yılını profesyonel olarak çalışarak geçirdim. Çorum'da yaşıyorum, 7 yıldır da uzaktan çalışmaktayım.</p>
+			<p class="pr-6 md:pr-0 text-xs leading-normal text-gray-900 mb-8">Merhabalar ben Bilâl, takım yönetimi konusunda tecrübe sahibi bir uzman full-stack web geliştiricisiyim. Son derece estetik ve kullanışlı web siteleri/uygulamaları geliştiriyor veya geliştiren ekiplere destek oluyorum. Programlamaya 2006'da başladım ve 12 yıldır web geliştirme alanıyla ilgileniyorum. Bunun 3 yılı yurtdışında olmak üzere yaklaşık son 10 yılını profesyonel olarak çalışarak geçirdim. Çorum'da yaşıyorum, 7 yıldır da uzaktan çalışmaktayım.</p>
 			<Social />
 		</div>
 	</div>
